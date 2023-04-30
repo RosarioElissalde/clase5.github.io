@@ -1,0 +1,21 @@
+.dias{font-weight: bold;
+    background-color:gray;
+    color: white;
+    font-size: 20px;}
+
+.horarios{font-style: italic;
+    background-color:gray;
+    color: white;}
+
+.sabados{
+    background-color:black;
+    color: white;}
+header{
+    background-color:#F2F3F4;
+    width: 100%;}
+footer{
+    background-color: white;
+    width: 100%;
+    height: auto;}
+form{border-style: double;}
+.navlist{list-style: none;}
